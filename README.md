@@ -12,20 +12,18 @@
 - Allows the player to leave the game at any moment
 - Displays photo of leveled Pokemon
 **#3 - RockPaperScissors**
-**Summary**: 
+**Summary**: Allows users to play the classic game Rock-Paper-Scissors. The user goes against a computer.
 **Key Features**
--
--
--
+- Allows the user to keep track of their score against the computer
+- Handles invalid inputs
+- Allows the user to stop the game at any moment
 **#4 - Simple Calculator**
-**Summary**:
+**Summary**: Child-friendly calculator. Allow for all four operations of math.
 **Key Features**
--
--
--
+- Allows users to pick an operation each time they need to input an equation
+- Allows users to quit whenever they want
 **#5 - MadLibs**
-**Summary**:
+**Summary**: A sentence randomizer. The user inputs parts of speech and the parts of speech are implemented into a random sentence. 
 **Key Features**
--
--
--
+- Endless possibilities
+- Humorous Jones College Prep Scenarios
