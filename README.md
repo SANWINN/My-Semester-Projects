@@ -42,3 +42,9 @@
 **Key Features**:
 - Endless possibilities
 - Humorous Jones College Prep Scenarios
+
+**#6 - Create Co-Project**
+
+**Summary**
+
+**Key Features**
