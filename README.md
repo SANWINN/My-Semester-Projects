@@ -45,14 +45,16 @@
 
 **#6 - Create Co-Project**
 
-**Summary**: Disney Princess Hotel Booking Website
+**Summary**: Disney Princess Hotel Room Booking Program
 
-**Key Features**
--Allows users to filter out the room based on availability, princess names, color, and budget.
--Program Depth - Allows for numerous possibilities.
+**Key Features**:
+- Allows users to filter out the room based on availability, princess names, color, and budget.
+- Program Depth - Allows for numerous possibilities.
 
 **#7 - Random Pet Generator**
 
-**Summary**
+**Summary**: Pet Recommender for future or potential pet owners
 
-**Key Features**
+**Key Features**:
+- Displays Images
+- Uses time function to build suspense
